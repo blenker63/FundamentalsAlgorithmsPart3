@@ -1,4 +1,4 @@
-package com.prosky.fundamentalsalgorithmsrart3;
+package com.prosky.fundamentalsalgorithmspart3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
