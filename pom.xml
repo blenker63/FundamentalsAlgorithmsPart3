@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.pro-sky</groupId>
-    <artifactId>FundamentalsAlgorithmsRart3</artifactId>
+    <artifactId>FundamentalsAlgorithmsPart3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>FundamentalsAlgorithmsRart3</name>
     <description>FundamentalsAlgorithmsRart3</description>

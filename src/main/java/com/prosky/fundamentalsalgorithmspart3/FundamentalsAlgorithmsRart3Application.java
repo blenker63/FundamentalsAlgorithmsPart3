@@ -1,4 +1,4 @@
-package com.prosky.fundamentalsalgorithmsrart3;
+package com.prosky.fundamentalsalgorithmspart3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
